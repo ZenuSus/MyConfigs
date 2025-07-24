@@ -1,6 +1,6 @@
 # MyConfigs
 ## What is this
-    My system (hyprland, waybar and etc.) configs and some stuff
+  My system (hyprland, waybar and etc.) configs and some stuff
 
 ## Installing
   1. Clone this repo
