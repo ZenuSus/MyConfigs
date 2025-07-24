@@ -1,0 +1,126 @@
+* {
+  border: none;
+  border-radius: 0;
+  font-family: "Fira Code", "Font Awesome 5 Free";
+  font-size: 13px;
+  min-height: 0;
+}
+
+window#waybar {
+  background-color: rgba(40, 40, 40, 0.9);
+  color: #ffffff;
+  transition-property: background-color;
+  transition-duration: 0.5s;
+  border-radius: 10px;
+}
+
+#workspaces {
+  padding: 0 6px;
+  margin-right: 10px;
+}
+
+#workspaces button {
+  padding: 0 10px;
+  margin: 0 3px;
+  background-color: transparent;
+  color: #bbbbbb;
+  border-bottom: 2px solid transparent;
+  transition: all 0.3s ease;
+}
+
+#workspaces button:hover {
+  background: rgba(100, 100, 100, 0.2);
+  box-shadow: inherit;
+  border-bottom: 2px solid #bbbbbb;
+}
+
+#workspaces button.active {
+  color: #5e81ac;
+  border-bottom: 2px solid #5e81ac;
+}
+
+#workspaces button.urgent {
+  color: #bf616a;
+}
+
+#window {
+  color: #d8dee9;
+  padding: 0 12px;
+  margin-left: 5px;
+}
+
+#window image {
+  margin-right: 8px;
+}
+
+#clock {
+  color: #a3be8c;
+  padding: 0 12px;
+}
+
+#cpu, #memory, #backlight, #pulseaudio, #battery, #custom-screenshot, #custom-power {
+  padding: 0 5px;
+  margin: 0 2px;
+}
+
+#cpu {
+  color: #d08770;
+}
+
+#memory {
+  color: #b48ead;
+}
+
+#backlight {
+  color: #ebcb8b;
+}
+
+#pulseaudio {
+  color: #8fbcbb;
+}
+
+#battery {
+  color: #81a1c1;
+}
+
+#battery.critical {
+  color: #bf616a;
+}
+
+#custom-screenshot {
+  color: #88c0d0;
+}
+
+#custom-power {
+  color: #bf616a;
+  padding-right: 15px;
+}
+
+tooltip {
+  background-color: rgba(50, 50, 50, 0.9);
+  border: 1px solid rgba(100, 100, 100, 0.9);
+  border-radius: 5px;
+}
+
+tooltip label {
+  color: #ffffff;
+}
+
+#tray {
+  padding: 0 8px;
+  margin: 0 4px;
+}
+
+#tray > .passive {
+  -gtk-icon-effect: dim;
+}
+
+#tray > .needs-attention {
+  -gtk-icon-effect: highlight;
+}
+
+#custom-sep1 {
+  color: #4c566a;  /* Серо-синий цвет */
+  padding: 0 5px;
+  margin: 0 2px;
+}
