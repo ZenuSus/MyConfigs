@@ -1,0 +1,35 @@
+# main
+font=Noto Sans 11
+background-color=#373D4A
+text-color=#CDD6F4
+width=300
+height=100
+margin=10
+padding=10
+border-size=2
+border-radius=10
+border-color=#262B33
+
+# low
+[mode=low]
+background-color=#313244
+text-color=#BAC2DE
+
+# normal
+[mode=normal]
+background-color=#1E1E2E
+text-color=#CDD6F4
+
+# high
+[mode=high]
+background-color=#F38BA8
+text-color=#1E1E2E
+border-color=#F38BA8
+
+# critical
+[mode=critical]
+background-color=#FAB387
+text-color=#1E1E2E
+border-color=#FAB387
+
+
