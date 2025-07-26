@@ -9,10 +9,13 @@
   4. Edit the files to suit your needs (for example: change the path to wallpapers in the `hyprpaper.conf`)
   5. All done! Thx for using my config
 
-# What's in the folders?
-  Hypr - hyprland, hyprlock and hyprpaper configs
-  Mako - mako config
-  Rofi - rofi theme
-  Waybar - waybar config
+### Dependencies
+   Waybar, rofi, mako, wlogout, hyprlock and hyprpaper 
+
+## What's in the folders?
+  Hypr - hyprland, hyprlock and hyprpaper configs <br>
+  Mako - mako config <br>
+  Rofi - rofi theme <br>
+  Waybar - waybar config <br>
   Wlogout - wlogout config
   
