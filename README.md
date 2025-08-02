@@ -1,7 +1,11 @@
 # MyConfigs
 ## What is this
   My system (hyprland, waybar and etc.) configs and some stuff
-  https://github.com/user-attachments/assets/8f387570-05fa-4aeb-9d34-de1d62db52de
+  
+
+https://github.com/user-attachments/assets/54af1c5e-287d-4833-a3fc-5d7cd2510029
+
+
 
 ## Installing
   1. Clone this repo
