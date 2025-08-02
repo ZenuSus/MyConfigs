@@ -1,6 +1,7 @@
 # MyConfigs
 ## What is this
   My system (hyprland, waybar and etc.) configs and some stuff
+  https://github.com/user-attachments/assets/8f387570-05fa-4aeb-9d34-de1d62db52de
 
 ## Installing
   1. Clone this repo
@@ -18,4 +19,3 @@
   Rofi - rofi theme <br>
   Waybar - waybar config <br>
   Wlogout - wlogout config
-  
