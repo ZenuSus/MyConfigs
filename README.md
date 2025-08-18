@@ -8,8 +8,8 @@ https://github.com/user-attachments/assets/54af1c5e-287d-4833-a3fc-5d7cd2510029
 
 ## Installing
  ### Automatic script
-  1. Download install-arch.sh script (for arch)
-  2. Run: `sudo pacman -S git && sh install-arch.sh`
+  1. Download install-arch.sh script (for arch) or install-debian-and-ubuntu.sh for systems with apt
+  2. Run: `sudo pacman -S git && sh install-arch.sh` or `sudo apt-get install git software-properties-common && sh install-debian-and-ubuntu.sh`
   3. Wait for the script to finish, after that logout and login again
 
  ### Manual method
