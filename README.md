@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/54af1c5e-287d-4833-a3fc-5d7cd2510029
   1. Clone this repo <br>
   2. Copy configs into right places (usually all configs located at the `~/.config` folder) <br>
   3. `.misc` folder must be located at the your user home, and `Wallpapers` folder in the `Pictures` <br>
-  4. Edit the files to suit your needs (for example: change the path to wallpapers in the `hyprpaper.conf`) <br>
+  4. Edit the files to suit your needs (for example: change the path to wallpapers, and your monitor in the `hyprpaper.conf`) <br>
   5. All done! Thx for using my config
 
 ## What's in the folders?
