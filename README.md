@@ -1,9 +1,6 @@
 # MyConfigs
 ## What is this
   My system (hyprland, waybar and etc.) configs and some stuff
-
-> [!IMPORTANT]
- No more updates, bc I dont use hyprland anymore.
   
 
 https://github.com/user-attachments/assets/54af1c5e-287d-4833-a3fc-5d7cd2510029
